@@ -5,4 +5,11 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>maven test</name>
   <description>testing the maven configuration</description>
+  <dependencies>
+  	<dependency>
+  		<groupId>dom4j</groupId>
+  		<artifactId>dom4j</artifactId>
+  		<version>1.6.1</version>
+  	</dependency>
+  </dependencies>
 </project>
